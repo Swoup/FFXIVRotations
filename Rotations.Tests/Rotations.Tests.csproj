@@ -11,7 +11,7 @@
         
         <DalamudLibPath>$(HOME)/.xlcore/dalamud/Hooks/dev/</DalamudLibPath>
 
-        <RootNamespace>FFXIVRotations.Tests</RootNamespace>
+        <RootNamespace>Rotations.Tests</RootNamespace>
     </PropertyGroup>
 
     

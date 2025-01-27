@@ -65,7 +65,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <Using Include="FFXIVRotations.RotationInfo">
+        <Using Include="Rotations.RotationInfo">
           <Static>True</Static>
         </Using>
         <Using Include="Dalamud.Game.ClientState.JobGauge.Enums" />
