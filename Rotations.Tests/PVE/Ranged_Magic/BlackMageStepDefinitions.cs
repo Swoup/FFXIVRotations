@@ -1,6 +1,6 @@
 ﻿using TechTalk.SpecFlow;
 
-namespace FFXIVRotations.Tests.PVE.Ranged_Magic;
+namespace Rotations.Tests.PVE.Ranged_Magic;
 
 [Binding]
 public sealed class BlackMageStepDefinitions(ScenarioContext scenarioContext)
