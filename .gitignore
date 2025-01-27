@@ -1,0 +1,7 @@
+.vs/
+.vsc/
+obj/
+bin/
+*.user
+.idea/
+RotationSolver/*
