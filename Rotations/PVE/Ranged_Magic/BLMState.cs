@@ -5,8 +5,9 @@ public enum BlmState
 {
     Default,
     NoMana,
+    AtLeastEightHundredMana,
+    FullMana,
     Moving,
-    NeutralStance,
     AstralFire1,
     AstralFire2,
     AstralFire3,
